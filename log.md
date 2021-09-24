@@ -6,6 +6,7 @@
 
 **Thoughts:** I'm excited to learn more! I've literally just scratched the surface of the surface. I did one hour and it felt great to begin a new challenge.
 
+[EXAMPLE BELOW]
 
 ### Day 1: June 27, Monday
 
