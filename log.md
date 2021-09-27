@@ -26,7 +26,16 @@
 
 ### Day 3: Sunday 26th September
 
-**Today's Progress**
-**Time Spent**
-**Thoughts**
+**Today's Progress**: Some basic html & CSS. Margins, padding then taking a cursory look at hexadecimals in RGB and which colours are most used and how to input them on a basic webpage. It’s baby steps but it’s still fun at this stage.
 
+**Time Spent** 1h 5m
+
+**Thoughts** Today was fun! Especially haxadecimals, always wanted to learn how the hex codes operate.
+
+### Day 4: Monday 27th September
+
+**Today's Progress**: Completed Basic CSS, began Applied Visual Design module. Learned how to use u/em/s/strong tags, + box-shadow.
+
+**Time Spent** 1h 5m
+
+**Thoughts** Enjoyable, like yesterday. Colours and styling pages is good general knowledge. I did have second thoughts today about moving across to another course entirely. I might spend until Day 7 or so on <em>Responsive Web Design</em> but perhaps after I'll trial another module. I like the sound of <em>JavaScript Algorithms and Data Structures Certification, Front End Development Libraries Certification, Back- End Development and APIs Certification, & Information Security</em>. I'd like to start on some of those too.
