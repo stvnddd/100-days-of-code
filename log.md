@@ -2,7 +2,7 @@
 
 ### Day 1: Friday 24th September
 
-**Today's Progress**: Worked on some basic html & html5 - just getting started. I'll be following the FreeCodeCamp curriculum, from the beginning.
+**Today's Progress** Worked on some basic html & html5 - just getting started. I'll be following the FreeCodeCamp curriculum, from the beginning.
 
 **Time Spent** 1 hr
 
@@ -14,7 +14,7 @@
 
 ### Day 2: Saturday 25th September
 
-**Today's Progress**: I finished off basic HTML & HTML5 coding section and started on some CSS.
+**Today's Progress** I finished off basic HTML & HTML5 coding section and started on some CSS.
 
 **Time Spent** 1hr 5m
 
@@ -26,16 +26,108 @@
 
 ### Day 3: Sunday 26th September
 
-**Today's Progress**: Some basic html & CSS. Margins, padding then taking a cursory look at hexadecimals in RGB and which colours are most used and how to input them on a basic webpage. It’s baby steps but it’s still fun at this stage.
+**Today's Progress** Some basic html & CSS. Margins, padding then taking a cursory look at hexadecimals in RGB and which colours are most used and how to input them on a basic webpage. It’s baby steps but it’s still fun at this stage.
 
 **Time Spent** 1h 5m
 
 **Thoughts** Today was fun! Especially haxadecimals, always wanted to learn how the hex codes operate.
 
+~
+
 ### Day 4: Monday 27th September
 
-**Today's Progress**: Completed Basic CSS, began Applied Visual Design module. Learned how to use u/em/s/strong tags, + box-shadow.
+**Today's Progress** Completed Basic CSS, began Applied Visual Design module. Learned how to use u/em/s/strong tags, + box-shadow.
 
 **Time Spent** 1h 5m
 
 **Thoughts** Enjoyable, like yesterday. Colours and styling pages is good general knowledge. I did have second thoughts today about moving across to another course entirely. I might spend until Day 7 or so on <em>Responsive Web Design</em> but perhaps after I'll trial another module. I like the sound of <em>JavaScript Algorithms and Data Structures Certification, Front End Development Libraries Certification, Back- End Development and APIs Certification, & Information Security</em>. I'd like to start on some of those too.
+
+~
+
+### Day 5: Tuesday 28th September
+
+**Today's Progress** Continued with visual design. Played with positioning, complementary colors, hues, tones and linear gradients.
+
+**Time Spent** 1h
+
+**Thoughts** It sparked some design ambitions within whilst playing with the colours, which I expanded on in my blog tonight.
+
+~
+
+### Day 6: Wednesday 29th September
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
