@@ -56,14 +56,13 @@
 
 ### Day 6: Wednesday 29th September
 
-**Today's Progress**
+**Today's Progress** Creating shapes using CSS, a moon & heart. Then looked at @keyframes and animation.
 
-**Time Spent**
+**Time Spent** 1h (split throughout day, considerable time constraints)
 
-**Thoughts**
+**Thoughts** I looked over the course curriculum on freeCodeCamp and they recommend a specific order to the modules/certificates. I may follow their advice - but if a job opportunity arises in the meantime, I can skip across to another topic. It is fun doing this stuff.
 
 ~
-
 
 
 **Today's Progress**
