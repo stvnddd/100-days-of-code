@@ -64,16 +64,17 @@
 
 ~
 
+### Thursday 30th September
 
-**Today's Progress**
+**Today's Progress** Learned <b>animation-timing-name/timing/function</b> - bezier curves, using <b>cubic-bezier</b> to create simple graphics. Completed Applied Visual Design, started on Applied Accessibility. Finished today learning about audio elements in HTML5.
 
-**Time Spent**
+**Time Spent** 1h
 
-**Thoughts**
+**Thoughts** It is difficult managing other responsibilities alongside the coding challenge, I'm taking on a heavy burden. But without that pressure to press on and excel my potential and focus on subjects that will help build my skillset, then I'll go loosey-goosey once again and wither away. It might be too much, but it's better than too little. I'm still enjoying the process. The more I practice coding and getting used to that world, the more my skills improve. Even my typing is becoming slightly more efficient - I should start a typing course, and go down the rabbit-hole of keyboard layouts... perhaps another time! Or very soon...
 
 ~
 
-
+### Friday 1st October
 
 **Today's Progress**
 
