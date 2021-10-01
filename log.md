@@ -76,6 +76,16 @@
 
 ### Friday 1st October
 
+**Today's Progress** Completed Applied Accessibility! I found it a little more difficult to focus today, perhaps it was the topics. Or because it's Friday... maybe both 
+
+**Time Spent** 1h
+
+**Thoughts** I didn't give it my full attention today, I was switching across to Media Monarchy chat and listening to stuff, working on Autonomy and such. Also, the subject was a little boring today, all to do with accessibility. It was less interactive and more monotonous. Necessary I suppose, just one of those.
+
+~
+
+### Saturday 2nd October
+
 **Today's Progress**
 
 **Time Spent**
@@ -84,17 +94,7 @@
 
 ~
 
-
-
-**Today's Progress**
-
-**Time Spent**
-
-**Thoughts**
-
-~
-
-
+### Sunday 3rd October
 
 **Today's Progress**
 
