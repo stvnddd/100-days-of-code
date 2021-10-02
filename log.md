@@ -86,9 +86,9 @@
 
 ### Saturday 2nd October
 
-**Today's Progress**
+**Today's Progress** Completed Responsive Web Design Principles. Started on CSS Flexbox, played with flex-direction properties.
 
-**Time Spent**
+**Time Spent** 
 
 **Thoughts**
 
