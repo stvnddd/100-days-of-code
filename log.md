@@ -88,9 +88,9 @@
 
 **Today's Progress** Completed Responsive Web Design Principles. Started on CSS Flexbox, played with flex-direction properties.
 
-**Time Spent** 
+**Time Spent** 1hr
 
-**Thoughts**
+**Thoughts** I was tired after the late-night live lecture, I was busy and catching up on sleep. I had a family engagement this evening and should have paid more attention to this earlier. It's highly debatable that I completed a full hour, but I did get lots done today, namely clearing my inbox and sorting through my emails. I will have to dedicate more time towards coding tomorrow. Let's aim for 1hr 30 mins to make up for today.
 
 ~
 
