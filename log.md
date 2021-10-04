@@ -96,11 +96,11 @@
 
 ### Sunday 3rd October
 
-**Today's Progress**
+**Today's Progress** Completed CSS flexbox & CSS Grid. Finished today by reviewing the outline of my first ever coding project, 'Build a Tribute Page'. Feels like entering a foreign country with a book of useful phrases trying to impress locals. Absolutely terrifying haha, but exciting. Bring it on.
 
-**Time Spent**
+**Time Spent** 1hr 15m
 
-**Thoughts**
+**Thoughts** This first week was pretty easy, just following suggested hints and not having to pay such close attention to details. Now with my first project looming tomorrow, I will have to employ everything I've taken on board this past week or so and prove my value.
 
 ~
 
