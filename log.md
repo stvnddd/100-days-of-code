@@ -104,13 +104,13 @@
 
 ~
 
+### Monday 4th October
 
+**Today's Progress** Started 1st project 'Build a Tribute Page'. Mainly reviewing previous progress and planning, found it difficult to get started! 
 
-**Today's Progress**
+**Time Spent** 1hr
 
-**Time Spent**
-
-**Thoughts**
+**Thoughts** Learning a new language is difficult. I really struggled today trying to get going on this project. I didn't know what to do. After passing all of the previous tests, I was left a little disoriented when I had to attempt my own work. I didn't have a plan on how to get started. I went back and reviewed previous lessons looking for guidance. Progress was abysmal, contributed barely anything. I planned what my page would be about, then got caught up in selecting content, over the important coding projet. Tomorrow, I aim to be more direct and to just start trying stuff out.
 
 ~
 
