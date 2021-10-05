@@ -114,17 +114,17 @@
 
 ~
 
+### Tuesday 5th October
 
+**Today's Progress** Continued progress on project, 'Build a Tribute Page'. Very close to finishing but hit my limit today. Will be able to complete it tomorrow, perhaps spend more time making it look prettier.
 
-**Today's Progress**
+**Time Spent** 1hr
 
-**Time Spent**
-
-**Thoughts**
+**Thoughts** I felt like I hit a road block yesterday but eased into the task today and found it a little more doable. I was a bit stressed out yesterday but approaching it in a more relaxed way made the tasks easier today. There's still much I can do to improve the state of the project, it is very basic at the moment, but at least I have 9 out of 10 User Story's checked.
 
 ~
 
-
+### Wednesday 6th October
 
 **Today's Progress**
 
