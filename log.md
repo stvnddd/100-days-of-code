@@ -126,8 +126,9 @@
 
 ### Wednesday 6th October
 
-**Today's Progress**
+**Today's Progress** Started doing some research on html, css & javascript, just to freshen up on the basic functions. Watched lots of YT videos explaining coding vs programmning, how to approach coding in 2021, what to avoid, useful resources, etc.
 
-**Time Spent**
+**Time Spent** 1h 10m
 
-**Thoughts**
+**Thoughts** I didn't do much actual 'coding' today but at least got a better understanding of the background and context surrounding the coding universe. Tina HUang recommended doing Python first, which was interesting. I might hope across once I've finished my current coding project.
+
