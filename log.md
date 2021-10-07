@@ -132,3 +132,234 @@
 
 **Thoughts** I didn't do much actual 'coding' today but at least got a better understanding of the background and context surrounding the coding universe. Tina HUang recommended doing Python first, which was interesting. I might hope across once I've finished my current coding project.
 
+~
+
+### Thursday 7th October
+
+**Today's Progress** I wanted to continue yesterday's flow and bolster my existing knowledge. I jumped across to Udacity and found a great course that is giving some additional insights. Learnt about vim, emac/s and the 'coding wars' - an entertaining chapter of coding history!
+
+**Time Spent** 45 mins
+
+**Thoughts** I fell behind tonight, trying to catch up on another course. I'll make up for lost time tomorrow.
+
+~
+
+### Friday 8th October
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+### Saturday 9th October
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+### Sunday 9th October
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+### Monday 10th October
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+### Tuesday 11th OCtober
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+### Wednesday 12th October
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+### Thursday 13th October
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+### Friday 14th October
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+###
+
+**Today's Progress**
+
+**Time Spent**
+
+**Thoughts**
+
+~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
