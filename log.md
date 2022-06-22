@@ -3,8 +3,7 @@
 ### Wednesday 20th June 2022
 
 **Today's Progress**
-
-Restarted **Responsive Web Design** certification on freecodecamp.com. I went from scratch and reached Step 56 of initial project _Learn HTML by Building a Cat App_
+Restarted _Responsive Web Design_ certification on freecodecamp.com. I went from scratch and reached Step 56 of initial project _Learn HTML by Building a Cat App_
 
 **Time Spent**
 1hr
