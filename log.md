@@ -13,13 +13,15 @@ I was already familiar with the basics of this but always good to refresh. I sta
 
 ~
 
-###
+### Thursday 21st June 2022
 
 **Today's Progress**
+Completed _CatPhotoApp_ project. Moved onto next project, _Building a Cafe Menu_.
 
 **Time Spent**
 
 **Thoughts**
+Very satisfying seeing all the progress made after first basic project. A sense of completion, even if this was the basic bare bones of learning HTML.
 
 ~
 
