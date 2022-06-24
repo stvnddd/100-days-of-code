@@ -28,11 +28,12 @@ Very satisfying seeing all the progress made after first and second basic projec
 ### Friday 22nd June 2022
 
 **Today's Progress**
+Continued onto new Project _CSS Color Markers_, on Step 54. Had fun learning about rgb values, hexadecimals, hls and linear-gradient functions.
 
-**Time Spent**
+**Time Spent** 30 mins (did extra 30 mins yesterday)
 
 **Thoughts**
-
+Playing with colours is lots of fun, I can imagine many a rabbit-hole trying to create perfect colour schemes for a future website design. I know many of them are pre-made but still, making one would be fun.
 ~
 
 ###
