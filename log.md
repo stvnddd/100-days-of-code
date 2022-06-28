@@ -34,6 +34,7 @@ Continued onto new Project _CSS Color Markers_, on Step 54. Had fun learning abo
 
 **Thoughts**
 Playing with colours is lots of fun, I can imagine many a rabbit-hole trying to create perfect colour schemes for a future website design. I know many of them are pre-made but still, making one would be fun.
+
 ~
 
 ### Tuesday 28th June 2022
