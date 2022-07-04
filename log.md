@@ -49,24 +49,29 @@ Now I have to do my own project, it will be a sure test as to how much I've abso
 
 ~
 
-###
+### Wednesday 29th June - Friday 1st July 2022
 
 **Today's Progress**
+Spent three days on my Project to create a survey form. Inspected the html/css of the example site, and copied a lot of CSS over, also spent (or wasted) time trying to find animation queries but I don't fully understand them yet and was competing above my weight, to borrow a fighting analogy.
 
 **Time Spent**
+Maybe around 5-6 hours over three days.
 
 **Thoughts**
+I enjoyed it but got myself a little frustrated due to lack of knowledge, general competency. I need to keep going and keep getting more experience before moving onto more advanced areas. I managed to do the basics of the project well with html, but i was a little lost on the CSS part. It will improve over time.
 
 ~
 
-###
+### Monday 4th July 2022
 
 **Today's Progress**
+Started and finished CSS Flexbox photo gallery section. Moved onto "Learn Typography by Building a Nutrition Label".
 
 **Time Spent**
+2 hrs
 
 **Thoughts**
-
+It is going well. Struggling with consistency, mind is in a thousand places at once.
 ~
 
 ###
