@@ -74,13 +74,16 @@ Started and finished CSS Flexbox photo gallery section. Moved onto "Learn Typogr
 It is going well. Struggling with consistency, mind is in a thousand places at once.
 ~
 
-###
+### Tuesday 5th July 2022
 
 **Today's Progress**
+Completed the Nutrition Label challenge. Moved onto "Learning Accessibility by Building a Quiz" section.
 
 **Time Spent**
+1hr 30 mins
 
 **Thoughts**
+Completing the Nutrition label was satisfying. It looks like a replica of what you see on American food labels.
 
 ~
 
